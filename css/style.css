@@ -1,0 +1,17 @@
+body{
+  background-color: aqua;
+}
+
+.footer{
+  background-color: black;
+  height: 10vh;
+  border: 2px solid #32cd32;
+}
+
+.col-1{
+  background-color: #2f4f4f;
+  color:white;
+  border: 2px solid #6495ed;
+  /* we can add this to any html we want in outr page 
+  it will work. */
+}
